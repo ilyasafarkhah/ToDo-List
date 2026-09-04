@@ -28,26 +28,6 @@ The application allows users to add, complete, delete, and filter tasks. Task da
   - Completed — Show completed tasks.
 - 🎨 Clean UI — Simple and user-friendly interface.
 
-🚀 Installation
-
-1. Clone the repository
-
-git clone https://github.com/your-username/todo-app.git
-
-2. Navigate to the project directory
-
-cd todo-app
-
-3. Install dependencies
-
-npm install
-
-4. Start the development server
-
-npm run dev
-
-The application will then be available at the local development URL shown in your terminal.
-
 💻 Usage
 
 Using the application is simple:
